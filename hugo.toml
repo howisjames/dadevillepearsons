@@ -1,0 +1,19 @@
+baseURL = 'https://dadevillepearsons.com/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "hugo-clarity"
+themesDir = "./themes"
+
+# Allow Goldmark markdown render to retain and output HTML code snippets
+[markup.goldmark.renderer]
+  unsafe = true
+  
+[params]
+
+	#Tags settings
+	[params.tags]
+		enabled = true
+
+	#Categories settings
+	[params.categories]
+		enabled = true
