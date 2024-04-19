@@ -1,8 +1,8 @@
 ---
-title: HB Cards Theme
+title: HB 卡片主题
 # menu:
 #   main:
-#     name: Home
+#     name: 主页
 #     weight: 1
 #     params:
 #       icon:
