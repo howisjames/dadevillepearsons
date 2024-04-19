@@ -50,7 +50,7 @@ imagesDir = "images/" # without a leading forward slash
 # Icons:
 iconsDir = "icons/" # without a leading forward slash
 # Fonts:
-fontsDir = "fonts/" # without a leading forward slash
+# fontsDir = "fonts/" # without a leading forward slash
 
 # Social media sharing image: Will be used on Twitter, Facebook, LinkedIn, etc.
 # when a given page has no other image present.
