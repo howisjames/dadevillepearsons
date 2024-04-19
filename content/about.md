@@ -1,25 +1,21 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "Dadeville Pearsons are decendants and family of John E. and Vertis M. Pearson of Dadeville, Alabama."
+date = "2024-04-17"
+aliases = ["about-us", "pearsons", "contact"]
+author = "James Taylor"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor at auctor urna nunc id cursus metus aliquam eleifend. Tincidunt augue interdum velit euismod in. Tortor at risus viverra adipiscing at in tellus integer. Morbi quis commodo odio aenean sed adipiscing. In pellentesque massa placerat duis ultricies lacus sed turpis. Pharetra vel turpis nunc eget. Luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor. Leo urna molestie at elementum eu facilisis. Duis convallis convallis tellus id. Facilisi nullam vehicula ipsum a arcu. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Sit amet consectetur adipiscing elit. Sem et tortor consequat id porta nibh venenatis cras sed. Egestas sed sed risus pretium quam vulputate. Convallis a cras semper auctor neque.
 
-Hugo makes use of a variety of open source projects including:
+## Section 1
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Dis parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Gravida cum sociis natoque penatibus et magnis dis parturient montes. Ipsum consequat nisl vel pretium lectus quam. Curabitur gravida arcu ac tortor dignissim convallis aenean. Malesuada fames ac turpis egestas. Diam vulputate ut pharetra sit amet aliquam id diam maecenas. In hendrerit gravida rutrum quisque non tellus orci ac auctor. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque. Justo nec ultrices dui sapien eget mi proin sed libero. Tincidunt dui ut ornare lectus sit amet est placerat in. Habitant morbi tristique senectus et netus et malesuada fames ac. Eget magna fermentum iaculis eu. Aliquam nulla facilisi cras fermentum odio eu feugiat. Condimentum id venenatis a condimentum vitae sapien pellentesque.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Tempor orci eu lobortis elementum nibh tellus molestie nunc non. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. In arcu cursus euismod quis viverra nibh cras pulvinar mattis. Lacus vestibulum sed arcu non odio euismod. Ante in nibh mauris cursus. Egestas purus viverra accumsan in nisl nisi scelerisque eu ultrices. Suspendisse interdum consectetur libero id. Diam sollicitudin tempor id eu nisl nunc mi ipsum. Odio morbi quis commodo odio aenean sed adipiscing diam. Augue neque gravida in fermentum et sollicitudin. Scelerisque viverra mauris in aliquam sem fringilla. Nibh praesent tristique magna sit amet purus gravida quis. Mattis vulputate enim nulla aliquet porttitor lacus luctus. At ultrices mi tempus imperdiet nulla malesuada pellentesque elit eget. Magna ac placerat vestibulum lectus mauris ultrices.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+## Section 2
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Nunc congue nisi vitae suscipit. Porttitor massa id neque aliquam vestibulum morbi blandit cursus. Proin libero nunc consequat interdum varius sit. Arcu cursus euismod quis viverra nibh cras pulvinar mattis nunc. Donec ultrices tincidunt arcu non sodales neque sodales ut. Quam nulla porttitor massa id neque aliquam. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Nibh sed pulvinar proin gravida hendrerit lectus. Ornare massa eget egestas purus viverra accumsan in. Massa enim nec dui nunc mattis. Est velit egestas dui id ornare arcu odio ut sem. Et ultrices neque ornare aenean euismod. Nulla posuere sollicitudin aliquam ultrices sagittis orci. Interdum consectetur libero id faucibus. Dui ut ornare lectus sit amet est. Porta nibh venenatis cras sed felis eget. Purus ut faucibus pulvinar elementum integer enim neque volutpat ac. Quis auctor elit sed vulputate mi sit amet. Elit sed vulputate mi sit amet mauris commodo quis imperdiet.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Diam quam nulla porttitor massa id neque aliquam vestibulum. Aliquam eleifend mi in nulla. Elementum nisi quis eleifend quam. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Diam donec adipiscing tristique risus nec feugiat in fermentum posuere. Felis bibendum ut tristique et egestas quis ipsum suspendisse ultrices. Natoque penatibus et magnis dis. Enim neque volutpat ac tincidunt vitae. Integer quis auctor elit sed. Elit sed vulputate mi sit amet mauris commodo quis imperdiet. Iaculis eu non diam phasellus vestibulum lorem sed risus.
